@@ -1,0 +1,30 @@
+body {
+	background-image: url("gambar/10.gif"); 
+	background-size: cover;
+}
+
+h1 {
+	font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+	text-align: center;
+	color: white;
+	font-size: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 400px;
+}
+
+p {
+	font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}
+
+#volume {
+	cursor: pointer;
+	margin-top: auto;
+	margin-bottom: auto;
+}
